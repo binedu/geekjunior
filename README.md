@@ -6,3 +6,5 @@ In the GoogleAnalyticsApp.java inform the propterty PROPERTY_ID with a correct g
 
 # Licence
 GeekJuniorApp for Android is an Open Source project covered by the GNU General Public License version 2.
+
+Cambio de prueba
